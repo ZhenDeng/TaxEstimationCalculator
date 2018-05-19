@@ -1,20 +1,14 @@
 # TaxEstimationCalculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+[![.angular](https://img.shields.io/badge/angular-5.2.10-yellow.svg)](https://github.com/angular)
+[![.angular-cli](https://img.shields.io/badge/angular--cli-1.7.4-green.svg)](https://github.com/angular/angular-cli)
+[![.angular-material](https://img.shields.io/badge/angular--material-6.0.2-yellowgreen.svg)](https://github.com/angular/material2)
 
 Create a Single Page App allowing a user to calculate a simple tax amount estimation from a
 given income.
-
-Technology restrictions:
-
-● Angular 5
-
-● Angular Material2
-
-● Angular Flex Layout
-
-
-
+ 
+## Description
+ 
 As a user,
 
 ● I can enter:
@@ -26,7 +20,6 @@ As a user,
 ■ A Gross​ amount or,
 
 ■ A Gross + Superannuation​ amount
-
 
 ● I should see the calculated amount of:
 
@@ -41,3 +34,12 @@ As a user,
 ○ The Net​ amount (net income received by the user after tax),
 
 ○ The Net + Superannuation​ amount
+
+ 
+## How to use
+
+1. Using Visual code to open this folder
+
+2. Run commandline ng build in power shell in visual code
+
+3. Run commandline ng server --open in power shell in visual code to run the project
