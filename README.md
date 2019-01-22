@@ -38,7 +38,7 @@ As a user,
  
 ## How to use
 
-1. Using Visual code to open this folder
+1. Using Visual code to open this folder and run npm install in console
 
 2. Run commandline ng build in power shell in visual code
 
